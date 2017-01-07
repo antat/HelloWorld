@@ -7,7 +7,6 @@ public class Helloworld {
 		System.out.println("hello");
 		System.out.println("1st local commit");
 		
-		System.out.println("test");
 	}
 
 }
